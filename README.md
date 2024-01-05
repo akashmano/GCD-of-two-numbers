@@ -33,7 +33,8 @@ def gcd():
 ```
 
 ## Output:
-![Screenshot 2024-01-03 160020](https://github.com/akashmano/GCD-of-two-numbers/assets/137408306/58d3325b-a173-4740-8199-2cd5b20c46aa)
+![image](https://github.com/akashmano/GCD-of-two-numbers/assets/137408306/a14c1621-5815-4a83-b518-e7653a9d0169)
+
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
